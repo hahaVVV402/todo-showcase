@@ -1,0 +1,29 @@
+# === IDE ===
+.idea/
+*.iml
+.vscode/
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Backend (Java / Maven) ===
+backend/target/
+backend/*.log
+backend/test.log
+backend/test_debug.log
+backend/.mvn/wrapper/maven-wrapper.jar
+
+# === Frontend (Node / Vite) ===
+frontend/node_modules/
+frontend/dist/
+
+# === Agent / OpenSpec tooling (internal) ===
+.agent/
+openspec/
+.gemini/
+
+# === Logs ===
+*.log
+npm-debug.log*
