@@ -1,6 +1,6 @@
-# TodoList 全栈实战项目
+# TodoList
 
-基于 **Spring Boot** 与 **React** 构建的现代化待办管理系统。本项目聚焦于处理长列表多维排序、复杂关系的数据渲染（子任务与清单联动）以及无感知的状态同步，展示了前后端分离架构下的完整开发实践。
+一个简单的todolist-demo
 
 > [在线效果截图见下方 Screenshots 章节](#screenshots)
 
