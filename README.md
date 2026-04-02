@@ -22,12 +22,8 @@
 
 ## 📸 Screenshots (效果截图)
 
-*(提示：建议在这里拖拽上传 2-3 张展示极光拟态外观、以及任务折叠面板全貌的截图，以让面试官直观感受到前端开发实力)*
-
-|<img src="" alt="Main Dashboard Placeholder" width="400"/>|<img src="" alt="Task Detail Placeholder" width="400"/>|
-|---|---|
-| **主应用面板** - 玻璃拟态设计 | **任务详情与筛选** - 分类清单与右侧边栏状态 |
-
+![alt text](images/image.png)
+![alt text](images/image-1.png)
 ## 🏗️ 技术架构
 
 ```
